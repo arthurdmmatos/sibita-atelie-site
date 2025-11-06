@@ -41,6 +41,18 @@ Tive muitos problemas:
 
 Depois de tempos ajustando o HTML e CSS, está tudo resolvido e o site está feito!
 
+
+06/11/2025
+O que está funcionando bem?
+- Os botões dos menus, media query, o e-mail e número para contato e o formulário.
+Quais elementos HTML se repetem em várias páginas?
+- Header e footer.
+Onde o layout quebra ou fica estranho?
+- Nenhum lugar.
+Quais melhorias fariam diferença real para o usuário do pequeno negócio?
+-Catálogo maior dos produtos, o formulário no futuro poderia ser realmente 100% funcional.
+-
+
 Desenvolvedor
 
 Arthur Dantas Machado Matos 
