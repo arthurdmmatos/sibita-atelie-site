@@ -45,10 +45,10 @@ Parte II
 06/11/2025
 O que está funcionando bem?
 - Os botões dos menus, media query, o e-mail e número para contato e o formulário.
-- 
+
 Quais elementos HTML se repetem em várias páginas?
 - Header e footer.
-- 
+
 Onde o layout quebra ou fica estranho?
 - Nenhum lugar.
   
@@ -56,34 +56,34 @@ Quais melhorias fariam diferença real para o usuário do pequeno negócio?
 -Catálogo maior dos produtos, o formulário no futuro poderia ser realmente 100% funcional.
 
 Quais componentes foram criados e como eles estão organizados?
--Foram criados componentes reutilizáveis para o header (cabeçalho) e o footer (rodapé), que aparecem em todas as páginas do site.
--O header inclui o logo da marca e o menu de navegação. Ele foi separado em um arquivo próprio e incluído via iframe, facilitando atualizações em todas as páginas ao mesmo tempo.
--O footer contém as informações de direitos da loja e também foi separado para reutilização.
+- Foram criados componentes reutilizáveis para o header (cabeçalho) e o footer (rodapé), que aparecem em todas as páginas do site.
+- O header inclui o logo da marca e o menu de navegação. Ele foi separado em um arquivo próprio e incluído via iframe, facilitando atualizações em todas as páginas ao mesmo tempo.
+- O footer contém as informações de direitos da loja e também foi separado para reutilização.
 
 Como o site está estruturado?
--Toda a estrutura utiliza o padrão de pastas recomendado: arquivos HTML na raiz, pasta css/ para estilos, pasta img/ para imagens e pasta componentes/ para os componentes reaproveitáveis.
--Em todos os arquivos HTML principais (index.html, sobre.html, contato.html), o header é incluído pelo iframe. Depois vem o conteúdo principal, seguido pelo footer.
--Os elementos que se repetem em várias páginas (header, footer) foram modularizados para evitar duplicidade e fazer a manutenção ser mais simples.
+- Toda a estrutura utiliza o padrão de pastas recomendado: arquivos HTML na raiz, pasta css/ para estilos, pasta img/ para imagens e pasta componentes/ para os componentes reaproveitáveis.
+- Em todos os arquivos HTML principais (index.html, sobre.html, contato.html), o header é incluído pelo iframe. Depois vem o conteúdo principal, seguido pelo footer.
+- Os elementos que se repetem em várias páginas (header, footer) foram modularizados para evitar duplicidade e fazer a manutenção ser mais simples.
 
 Como os componentes e a estrutura ajudam na manutenção e acessibilidade do site?
 -Separar o header e o footer permite modificar fácil o menu ou informações sem precisar editar cada página manualmente.
--O uso correto das tags semânticas HTML (como <main>, <section>, <nav>, <footer>) melhorou a navegação para leitores de tela e motores de busca.
+- O uso correto das tags semânticas HTML (como <main>, <section>, <nav>, <footer>) melhorou a navegação para leitores de tela e motores de busca.
 -Labels foram associados aos campos do formulário para garantir acessibilidade. O skip-link foi implementado para permitir navegação rápida pelo teclado.
 
 Resumo da estrutura de pastas do site:
--Raiz do projeto: arquivos principais (index.html, etc.)
--css/: contém style.css com estilos globais
--img/: imagens da marca e dos produtos
--componentes/: arquivos de header e footer reutilizáveis
+- Raiz do projeto: arquivos principais (index.html, etc.)
+- css/: contém style.css com estilos globais
+- img/: imagens da marca e dos produtos
+- componentes/: arquivos de header e footer reutilizáveis
 
 Testes e validacões
 O site foi testado utilizando navegação por teclado (Tab e Shift+Tab), validador do Google Lighthouse e verificador WAVE online para análise de acessibilidade básica. Todas as áreas interativas e formulários possuem labels corretas, imagens com texto alternativo e o skip-link está funcional em todas as páginas.
 
 Rubrica:
-Modularização do Código HTML: Proeficiente 5 a 6 (Talvez dê para separar mais coisas)
-Acessibilidade: Em desenvolvimento 3 a 4 (Talvez as cores não foram as melhores para a visibilidade, porem combina com a proposta do trabalho da minh mãe)
-Responsividade: Avançado 7 a 8 (Tudo perfeito)
-Organização e manutenibilidade do código: Em desenvolvimento 3 a 4 (Dá para organizar melhor)
+Modularização do Código HTML: Proeficiente 5 a 6 (Talvez dê para separar mais coisas, separei o header,footer, produto card e o FAQ, que sao elementos que se repetem)
+Acessibilidade: Em desenvolvimento 3 a 4 (Talvez as cores não foram as melhores para a visibilidade, porem combina com a proposta do trabalho da minh mãe, o botão tab está funcionando tudo certo)
+Responsividade: Avançado 7 a 8 (Tudo perfeito, atraves do media query e os grids, as paginas ficam proporcionais independentes se for no desktop ou mobile)
+Organização e manutenibilidade do código: Em desenvolvimento 3 a 4 (Dá para organizar melhor, por mais que cada coisa está em devida pasta, pode ser que na parte do codigo, algo fique colocado em outro lugar apos eu ter corrigido e so ter colocado no final)
 Design Visual Coerente: Em desenvolvimento 3 a 4 (Talvez as cores que escolhi possam ser ruim para pessoas com dificuldades, elas foram escolhidas por que acho que representa bem o trabalho da minha mãe)
 Hierarquia visual e layout: Proeficiente 5 a 6 (Separei o que era mais importante e coloquei de forma que fosse melhor de ver)
 Usabilidade e Experiencia do Usuario: Proeficiente 5 a 6 (Está bem visivel os botoes que são para interagir e o formulario, para que não cause confusao)
