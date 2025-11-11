@@ -80,14 +80,21 @@ Testes e validacões
 O site foi testado utilizando navegação por teclado (Tab e Shift+Tab), validador do Google Lighthouse e verificador WAVE online para análise de acessibilidade básica. Todas as áreas interativas e formulários possuem labels corretas, imagens com texto alternativo e o skip-link está funcional em todas as páginas.
 
 Rubrica:
-Modularização do Código HTML: Proeficiente 5 a 6 (Talvez dê para separar mais coisas, separei o header,footer, produto card e o FAQ, que sao elementos que se repetem)
-Acessibilidade: Em desenvolvimento 3 a 4 (Talvez as cores não foram as melhores para a visibilidade, porem combina com a proposta do trabalho da minh mãe, o botão tab está funcionando tudo certo)
-Responsividade: Avançado 7 a 8 (Tudo perfeito, atraves do media query e os grids, as paginas ficam proporcionais independentes se for no desktop ou mobile)
-Organização e manutenibilidade do código: Em desenvolvimento 3 a 4 (Dá para organizar melhor, por mais que cada coisa está em devida pasta, pode ser que na parte do codigo, algo fique colocado em outro lugar apos eu ter corrigido e so ter colocado no final)
-Design Visual Coerente: Em desenvolvimento 3 a 4 (Talvez as cores que escolhi possam ser ruim para pessoas com dificuldades, elas foram escolhidas por que acho que representa bem o trabalho da minha mãe)
-Hierarquia visual e layout: Proeficiente 5 a 6 (Separei o que era mais importante e coloquei de forma que fosse melhor de ver)
-Usabilidade e Experiencia do Usuario: Proeficiente 5 a 6 (Está bem visivel os botoes que são para interagir e o formulario, para que não cause confusao)
-Alinhamento com o negocio: Proeficiente 5 a 6 (As cores e o design todo remete muito ao trabalho da minha mãe, onde vende coisas que são feitas com muito amor e carinho, e por isso a cor rosa foi escolhida como principal cor do site)
+- Modularização do Código HTML: Proeficiente 5 a 6 (Talvez dê para separar mais coisas, separei o header,footer, produto card e o FAQ, que sao elementos que se repetem)
+
+- Acessibilidade: Em desenvolvimento 3 a 4 (Talvez as cores não foram as melhores para a visibilidade, porem combina com a proposta do trabalho da minh mãe, o botão tab está funcionando tudo certo)
+
+- Responsividade: Avançado 7 a 8 (Tudo perfeito, atraves do media query e os grids, as paginas ficam proporcionais independentes se for no desktop ou mobile)
+
+-Organização e manutenibilidade do código: Em desenvolvimento 3 a 4 (Dá para organizar melhor, por mais que cada coisa está em devida pasta, pode ser que na parte do codigo, algo fique colocado em outro lugar apos eu ter corrigido e so ter colocado no final)
+
+-Design Visual Coerente: Em desenvolvimento 3 a 4 (Talvez as cores que escolhi possam ser ruim para pessoas com dificuldades, elas foram escolhidas por que acho que representa bem o trabalho da minha mãe)
+
+-Hierarquia visual e layout: Proeficiente 5 a 6 (Separei o que era mais importante e coloquei de forma que fosse melhor de ver)
+
+-Usabilidade e Experiencia do Usuario: Proeficiente 5 a 6 (Está bem visivel os botoes que são para interagir e o formulario, para que não cause confusao)
+
+-Alinhamento com o negocio: Proeficiente 5 a 6 (As cores e o design todo remete muito ao trabalho da minha mãe, onde vende coisas que são feitas com muito amor e carinho, e por isso a cor rosa foi escolhida como principal cor do site)
    
 
 
