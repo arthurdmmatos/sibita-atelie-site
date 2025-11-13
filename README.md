@@ -130,8 +130,7 @@ Rubrica:
   ├     README.md
   ├     sobre
 - Parte 1: Construção do site, Parte 2: Implementação do que faltava e alguns ajustes, Parte 3:;
-- Ent);
-- **Espaço reservado para o link do GitHub Pages** (vocês vão adicionar depois).
+- https://arthurdmmatos.github.io/sibita-atelie-site/
    
 
 
