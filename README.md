@@ -95,6 +95,43 @@ Rubrica:
 -Usabilidade e Experiencia do Usuario: Proeficiente 5 a 6 (Está bem visivel os botoes que são para interagir e o formulario, para que não cause confusao)
 
 -Alinhamento com o negocio: Proeficiente 5 a 6 (As cores e o design todo remete muito ao trabalho da minha mãe, onde vende coisas que são feitas com muito amor e carinho, e por isso a cor rosa foi escolhida como principal cor do site)
+
+
+
+- Sibita Ateliê;
+- Arthur Dantas Machado Matos, Fiz tudo;
+- Loja virtual de Amigurimis personalizados;
+- https://www.figma.com/design/DzcNJxT7CxhxwgmEcIN29p/Ateli%C3%AA?node-id=0-1&t=GT1776HJ5zsXzFDM-1;
+- HTML5, CSS3;
+- sibita-atelie-site-main
+  |
+  ├  componentes
+  |      |
+  |      ├faq-item
+  |      ├footer
+  |      ├header
+  |      ├produto-card
+  |
+  ├     css
+  |      |
+  |      ├style
+  |
+  ├     img
+  |      |
+  |      ├enfeite-quarto
+  |      ├jesus
+  |      ├logo
+  |      ├papelaria-personalizada
+  |      ├pets
+  |      ├urso
+  |
+  ├     contato
+  ├     index
+  ├     README.md
+  ├     sobre
+- Parte 1: Construção do site, Parte 2: Implementação do que faltava e alguns ajustes, Parte 3:;
+- Ent);
+- **Espaço reservado para o link do GitHub Pages** (vocês vão adicionar depois).
    
 
 
