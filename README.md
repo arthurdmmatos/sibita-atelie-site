@@ -96,7 +96,7 @@ Rubrica:
 
 -Alinhamento com o negocio: Proeficiente 5 a 6 (As cores e o design todo remete muito ao trabalho da minha mãe, onde vende coisas que são feitas com muito amor e carinho, e por isso a cor rosa foi escolhida como principal cor do site)
 
-
+Parte 3
 
 - Sibita Ateliê;
 - Arthur Dantas Machado Matos, Fiz tudo;
@@ -129,8 +129,69 @@ Rubrica:
   ├     index
   ├     README.md
   ├     sobre
-- Parte 1: Construção do site, Parte 2: Implementação do que faltava e alguns ajustes, Parte 3:;
+- Parte 1: Construção do site, Parte 2 e 3: Implementação do que faltava e alguns ajustes;
 - https://arthurdmmatos.github.io/sibita-atelie-site/
+
+Testes realizados
+-Chrome, Edge, Firefox
+-Iphone 8
+-Provas se encontram na pasta testes-navegadores
+
+
+**Aprendizados Técnicos:**
+
+- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
+  Aprendi bem sobre componentes e as classes.
+- Qual foi a tecnologia ou conceito mais desafiador de aprender?
+  Posicionar algo na tela.
+- O que você domina melhor agora comparado ao início do projeto?
+  Tudo eu melhorei um pouco pelo menos.
+
+  **Desafios Enfrentados:**
+
+- Qual foi o maior desafio do projeto?
+  Fazer tudo sozinho
+- Como vocês superaram?
+  Tive que fazer sozinho mesmo
+- Se pudesse voltar no tempo, o que faria diferente?
+  Arranjaria uma dupla para sofrer comigo
+
+  **Evolução do Projeto:**
+
+- Como o projeto evoluiu da Parte 1 até agora?
+  Não mudou muitas coisas mas com certeza melhorou
+- Quais foram as maiores mudanças/melhorias?
+  Botão de ir para a parte principal da página
+- O resultado final atende à proposta inicial?
+  Sim
+
+**Relevância para o Negócio:**
+
+- O site realmente agregaria valor ao pequeno negócio escolhido?
+  Sim
+- Se pudessem apresentar para o dono do negócio, o que diriam?
+  Que o site será de grande ajuda
+- Vocês usariam este projeto como portfólio? Por quê?
+  Não sei.
+
+  **"Próximos Passos e Melhorias Futuras"**:
+
+**Melhorias Técnicas Planejadas:**
+
+- [ ] Adicionar mais coisa no catálogo
+- [ ] Adicionar menu hamburguer
+- [ ] ImplementarJavaScript
+
+**Conhecimentos a Aprofundar:**
+
+Liste 3-5 áreas/tecnologias que vocês querem estudar mais:
+
+Aprender mais coisas sobre o css, html e aprender sobre javascript
+
+**Aplicação em Disciplinas Futuras:**
+
+Como vocês vão usar este aprendizado em próximos projetos ou disciplinas?
+Vou usar ele como inspiração para sempre buscar melhorar.
    
 
 
