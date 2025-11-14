@@ -1,7 +1,7 @@
 Sibita Ateliê
 Parte I
 Links:
-Site Publicado (Rodando!): https://arthurdmmatos.github.io/sibita-atelie-site/ 
+Site Publicado (Rodando!): https://arthurdmmatos.github.io/sibita-atelie-site/
 Protótipo de Design (Figma): https://www.figma.com/design/DzcNJxT7CxhxwgmEcIN29p/Ateli%C3%AA?node-id=0-1&t=GT1776HJ5zsXzFDM-1
 Repositório: https://github.com/arthurdmmatos/sibita-atelie-site 
 (Observação: O link do Repositório e do Site Publicado são iguais, conforme configurado no GitHub Pages.)
@@ -185,13 +185,12 @@ Testes realizados
 **Conhecimentos a Aprofundar:**
 
 Liste 3-5 áreas/tecnologias que vocês querem estudar mais:
-
-Aprender mais coisas sobre o css, html e aprender sobre javascript
+- Aprender mais coisas sobre o css, html e aprender sobre javascript
 
 **Aplicação em Disciplinas Futuras:**
 
 Como vocês vão usar este aprendizado em próximos projetos ou disciplinas?
-Vou usar ele como inspiração para sempre buscar melhorar.
+- Vou usar ele como inspiração para sempre buscar melhorar.
    
 
 
