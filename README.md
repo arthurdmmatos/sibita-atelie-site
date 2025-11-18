@@ -158,29 +158,29 @@ Testes realizados
 
   **Evolução do Projeto:**
 
-- Como o projeto evoluiu da Parte 1 até agora?
-  Não mudou muitas coisas mas com certeza melhorou
-- Quais foram as maiores mudanças/melhorias?
-  Botão de ir para a parte principal da página
-- O resultado final atende à proposta inicial?
-  Sim
+  Como o projeto evoluiu da Parte 1 até agora?
+- Não mudou muitas coisas mas com certeza melhorou
+  Quais foram as maiores mudanças/melhorias?
+- Botão de ir para a parte principal da página
+  O resultado final atende à proposta inicial?
+- Sim
 
 **Relevância para o Negócio:**
 
-- O site realmente agregaria valor ao pequeno negócio escolhido?
-  Sim
-- Se pudessem apresentar para o dono do negócio, o que diriam?
-  Que o site será de grande ajuda
-- Vocês usariam este projeto como portfólio? Por quê?
-  Não sei.
+  O site realmente agregaria valor ao pequeno negócio escolhido?
+- Sim
+  Se pudessem apresentar para o dono do negócio, o que diriam?
+- Que o site será de grande ajuda
+  Vocês usariam este projeto como portfólio? Por quê?
+- Não sei.
 
   **"Próximos Passos e Melhorias Futuras"**:
 
 **Melhorias Técnicas Planejadas:**
 
-- [ ] Adicionar mais coisa no catálogo
-- [ ] Adicionar menu hamburguer
-- [ ] ImplementarJavaScript
+- Adicionar mais coisa no catálogo
+- Adicionar menu hamburguer
+- ImplementarJavaScript
 
 **Conhecimentos a Aprofundar:**
 
